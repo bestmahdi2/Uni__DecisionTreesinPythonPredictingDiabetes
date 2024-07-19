@@ -1,0 +1,30 @@
+---------- Train Reading ----------
+
+Done !
+
+---------- Create Models ----------
+
+Test Size: 20% - Random State: 1
+Time: 0:00:05.162024 - Size: 1.37 MB
+The model is 68.83116883116884% accurate !
+
+------------------------------
+
+Test Size: 20% - Random State: 10
+Time: 0:00:05.616275 - Size: 1.41 MB
+The model is 70.12987012987013% accurate !
+
+------------------------------
+
+Test Size: 50% - Random State: 1
+Time: 0:00:03.226821 - Size: 809.04 KB
+The model is 70.3125% accurate !
+
+------------------------------
+
+Test Size: 50% - Random State: 10
+Time: 0:00:02.607978 - Size: 825.15 KB
+The model is 71.61458333333334% accurate !
+
+------------------------------
+

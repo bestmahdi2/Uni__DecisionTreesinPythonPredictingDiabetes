@@ -1,0 +1,9 @@
+https://www.kaggle.com/code/paultimothymooney/predict-diabetes-with-python-starter-kernel
+
+https://github.com/Anny8910/Decision-Tree-Classification-on-Diabetes-Dataset/blob/master/Diabetes_set_(Decision_tree).ipynb
+
+https://www.kaggle.com/code/aungpyaeap/diabetes-test-using-decision-tree
+
+https://medium.com/geekculture/diabetes-prediction-using-machine-learning-python-23fc98125d8
+
+https://github.com/Anny8910/Decision-Tree-Classification-on-Diabetes-Dataset/blob/master/Diabetes_set_(Decision_tree).ipynb
